@@ -4,5 +4,5 @@
 
 # <a href="https://ibm.biz/portblock">http://ibm.biz/portblock</a>
 
-<a href="https://www.hyperledger.org/projects/composer">Hyperledger Composer</a>
+<a href="https://composer-playground.mybluemix.net/">Hyperledger Composer</a>
 
