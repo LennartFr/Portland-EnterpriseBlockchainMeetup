@@ -10,3 +10,9 @@
 
 <a href="https://composer-playground.mybluemix.net/">Hyperledger Composer</a>
 
+<a href="https://developer.ibm.com/code/patterns/category/blockchain/">Blockchain code patterns</a>
+
+<a href="https://www.ibm.com/blockchain/use-cases/">IBM Blockchain Use cases</a>
+
+<a href="https://www.ibm.com/cloud/blockchain-platform>IBM Blockchain service in the IBM Cloud</a>
+
