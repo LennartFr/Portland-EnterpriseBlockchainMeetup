@@ -4,5 +4,9 @@
 
 # <a href="https://ibm.biz/portblock">http://ibm.biz/portblock</a>
 
+<a href="https://hyperledger-fabric.readthedocs.io/en/release-1.2/">Readthedocs: Hyperledger Fabric</a>
+
+<a href="https://github.com/hyperledger/fabric">Hyperledger Fabric</a>
+
 <a href="https://composer-playground.mybluemix.net/">Hyperledger Composer</a>
 
