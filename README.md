@@ -14,5 +14,5 @@
 
 <a href="https://www.ibm.com/blockchain/use-cases/">IBM Blockchain Use cases</a>
 
-<a href="https://www.ibm.com/cloud/blockchain-platform>IBM Blockchain service in the IBM Cloud</a>
+<a href="https://www.ibm.com/cloud/blockchain-platform">IBM Blockchain service in the IBM Cloud</a>
 
